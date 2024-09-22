@@ -1,24 +1,23 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
     box-sizing: border-box;
 }
 
+
 table {
-    
-    border-collapse: collapse;/**/
-
-}
-
-table img{
-    vertical-align: middle;
-    
+    border-collapse: collapse;
 }
 
 table,
 tr,
 td {
     border-spacing: 0;
-
 }
+
+table img {
+    vertical-align: middle;
+}
+
+
